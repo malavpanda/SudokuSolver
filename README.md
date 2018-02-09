@@ -1,4 +1,4 @@
-# SudokuSolver
+# SudokuSolver with Constraint Propagation Algorithms (AI)
 
 ## Introduction
 
