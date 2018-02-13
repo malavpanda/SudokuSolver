@@ -6,7 +6,7 @@ Implementation of Backtracking, Forward Checking, Minimum Remaining Value, Degre
 
 ## Code Samples
 
-mytest.java covers the how the tokens are used and compute the result and outputs the file
+mytest.java covers how tokens are used and compute the result and outputs the file
 
 ## Installation
 
